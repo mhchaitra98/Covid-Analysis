@@ -1,5 +1,12 @@
+# DLithe-Internship
+INTERNSHIP DLITHE CERTIFICATION PROGRAM
+
+PROJECT DONE UNDER THE GUIDENCE DLITHE DONE BY :M H CHAITRA
+
+1.Healthcare and Medicine -Covid Analysis
+
 # Covid-Analysis
 
-Sbmitted to DLithe
+Submitted to DLithe
 
 -Thank you
